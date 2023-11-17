@@ -18,9 +18,10 @@
 - 제조설비 데이터 수집 플랫폼 하드웨어 기획 및 관리
 - IoT 기기 공정용 디스플레이 통신 프로토콜 및 패킷 개발
 
-## 언어
-- HTML, CSS, Javascript
+## 스킬
+
+- HTML
+- CSS
+- Javascript
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wholeheartedness&layout=compact)
-
-

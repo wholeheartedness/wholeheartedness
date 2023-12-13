@@ -2,6 +2,8 @@
 
 <br>
 Wholeheartedness : 전심
+<br>
+
 🖤 블로그 : https://wholeheartedness.tistory.com/
 
 <br>
